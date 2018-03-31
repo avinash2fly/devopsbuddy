@@ -1,0 +1,2 @@
+# devopsbuddy
+Spring boot project
